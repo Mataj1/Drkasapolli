@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Klinik för Fillers</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 2em 0;
+        }
+        .service {
+            background: #fff;
+            margin: 1em 0;
+            padding: 1em;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .service h2 {
+            color: #555;
+        }
+        .footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Klinik för Fillers</h1>
+    </div>
+    <div class="container">
+        <div class="service">
+            <h2>Rynkreducering och Hudföryngring</h2>
+            <p>Vi erbjuder behandlingar för att minska rynkor och föryngra huden.</p>
+        </div>
+        <div class="service">
+            <h2>Nasolabialveck</h2>
+            <p>Behandling av de horisontella vecken från näsa till mungipor.</p>
+        </div>
+        <div class="service">
+            <h2>Förlorad Volym på Kindbenen</h2>
+            <p>Återställ volymen på kindbenen för ett mer ungdomligt utseende.</p>
+        </div>
+        <div class="service">
+            <h2>Förstärkning av Käklinjen</h2>
+            <p>Skapa en mer markerad och definierad käklinje.</p>
+        </div>
+        <div class="service">
+            <h2>Skapa en Mer Definierad Haka</h2>
+            <p>Ge din haka mer definition och form.</p>
+        </div>
+        <div class="service">
+            <h2>Läppförstoring</h2>
+            <p>Förstora läpparna eller skapa en mer definierad läppkontur.</p>
+        </div>
+        <div class="service">
+            <h2>Näskorrigering</h2>
+            <p>Justera formen på din näsa utan kirurgi.</p>
+        </div>
+    </div>
+    <div class="footer">
+        <p>&copy; 2024 Klinik för Fillers</p>
+    </div>
+</body>
+</html>
